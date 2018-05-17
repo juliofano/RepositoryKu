@@ -1,0 +1,2 @@
+# RepositoryKu
+Sekedar repository baru
